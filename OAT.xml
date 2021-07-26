@@ -65,7 +65,7 @@ Note:If the text contains special characters, please escape them according to th
 			</policy>
 		</policylist>
         <licensematcherlist>
-            <licensematcher name="BSD-3-Clause" desc="">
+            <licensematcher name="BSD-3-Clause" desc="If the scanning result is InvalidLicense, you can define matching rules here. Note that quotation marks must be escaped.">
                 <licensetext name="
                      THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED
                      WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES

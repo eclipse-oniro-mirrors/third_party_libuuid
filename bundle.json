@@ -17,8 +17,8 @@
         "third-party",
         "libuuid"
     ],
-    "envs": [],
-    "dirs": [],
+    "envs": {},
+    "dirs": {},
     "segment": {
         "destPath": "third_party/libuuid"
     },
